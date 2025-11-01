@@ -28,7 +28,7 @@ Contains information such as:
 ---
 
 ## 📊 Dashboard Features
-- **KPIs:** Total Employees, Attrition Count, Attrition Rate, Avg Salary, Avg Age  
+- **KPIs:** Total Employees, Avg Monthly Income, Attrition Rate, Avg Salary, Avg Age  
 - **Visuals:**
   - Attrition by Department
   - Attrition by Gender
