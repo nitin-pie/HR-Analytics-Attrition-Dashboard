@@ -44,6 +44,6 @@ Contains information such as:
 - Employees with **low job satisfaction** tend to leave earlier  
 - **Higher salaries** and **better work-life balance** reduce attrition  
 - Average attrition rate in the dataset ≈ **16%**
- 
+## Created By 
 Nitin Saini
 3rd Year | AI & DS Branch
